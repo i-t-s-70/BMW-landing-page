@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient( to right,#01022d,#000);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contaier{
+   background-image: linear-gradient(to right, #01022de5, #000) ,  url(imeg/MCDAVAT_FE021.webp);
+    width: 90%;
+    height: 640px;
+}
